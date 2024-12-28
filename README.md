@@ -1,5 +1,5 @@
 # 🔥 Dynamic Calendar with Events
-## [Live Preview](https://amanayak.github.io/Create-Responsive-Calendar-With-Events/)
+## [Live Preview](https://codinggujaratweb.github.io/Create-Responsive-Calendar-With-Events/)
 ### 🔥 Dynamic Calendar with Events
 
 - Build a Dynamic Calendar with Events | Responsive Design Tutorial
